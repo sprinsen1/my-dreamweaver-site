@@ -23,6 +23,7 @@ html, body
 	margin: 50px;
 }
 .div { text-align: center;
+	margin: 50px;
 }
 .displayed {
     display: block;
